@@ -14,7 +14,7 @@
 
 ## The story
 
-A day in a plot — one of those compounds of rented rooms around a shared dirt courtyard where I'd say half of Nairobi grew up. Someone in the family has a camcorder (a big deal in the 80s; my headcanon is a relative visiting from abroad) and just points it at whatever is happening.
+A day in a plot — a compound of rented rooms around a shared dirt courtyard, common in Nairobi's Eastlands estates. Someone in the family has a camcorder and points it at whatever is happening.
 
 It starts in the morning: smoke off a mabati roof. A young man leans on the family's navy Peugeot 504 — the son. The women are at the tap with jerry cans, laundry going up on the lines, kids tearing across the courtyard. The camera walks out the gate into the lane: a plastic-bag football, mama mboga's stall, a bicycle upside-down on its saddle, a bus through the dust, a goat, a radio on a windowsill. Then the light goes orange, the jikos come out, and an older man is sitting in the Peugeot now — the father, done for the day. The woman at the green window is still there. Kids get called in. Someone lights a paraffin lamp. Tape off.
 

@@ -12,9 +12,9 @@ AI-generated found footage that feels like a memory. Prompts, music, and the pos
 
 ## What this is
 
-I grew up around this kind of footage — the shaky, over-saturated, tape-hiss home video that somebody's uncle shot at a family thing and nobody watched again for twenty years. The AI video models got good enough to fake it, and when I pointed one at a Kenyan estate in the 80s instead of the usual American suburb, something clicked for people. So I'm documenting how it's done, all of it: the prompt that worked, the prompt that gave a woman three hands, the music prompt, and the ffmpeg pipeline that makes the music duck when the kids scream.
+A working method for making AI video that looks like real home footage from a specific place and time — shaky, over-saturated, tape-hiss VHS, with the right cars, roofs, clothes, and music for that place. The first example is 1980s Nairobi, and it got a lot more attention than a generic "80s home video" would have. The difference was the research and the prompt, not the model.
 
-The goal is that you can take any place and any decade, follow the same steps, and get something that makes someone from there stop scrolling.
+Everything is documented: the prompt that worked, the prompt that gave a woman three hands, the music prompt, the exact edits, and the ffmpeg pipeline that makes the music duck when the kids scream. Take any place and any decade, follow the same steps.
 
 ## How a clip gets made
 
